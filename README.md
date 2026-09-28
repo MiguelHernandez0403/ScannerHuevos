@@ -198,9 +198,3 @@ Durante una predicción, el servidor:
 4. Obtiene las detecciones.
 5. Procesa los resultados.
 6. Devuelve la información a la aplicación móvil.
-
-Ejemplo conceptual:
-
-```text
-Imagen
-   │
